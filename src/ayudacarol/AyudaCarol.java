@@ -41,11 +41,7 @@ public class AyudaCarol {
                         + " "
                         + linea);
                 p.waitFor(1, TimeUnit.SECONDS);
-                //O no
-                //Esto es n nuevo comentario
-                //hola
-                //hola 2
-                //esto no es una despedida
+
             }
         }
     
